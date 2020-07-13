@@ -6,7 +6,7 @@ namespace ImageToANSI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Processor.ProcessImages();
         }
     }
 }
