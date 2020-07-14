@@ -4,7 +4,8 @@
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
 #IMG files
-img/*
+img/in/*
+img/out/*
 .DS_Store
 
 # User-specific files
