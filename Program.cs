@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ImageToANSI
+﻿namespace ImageToANSI
 {
     class Program
     {
